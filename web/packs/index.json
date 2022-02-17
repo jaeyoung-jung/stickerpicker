@@ -1,7 +1,8 @@
 {
   "packs": [
     "bugcatcapoo.json",
-    "BugCatCapoo2.json"
+    "BugCatCapoo2.json",
+    "blobpack.json"
   ],
   "homeserver_url": "https://matrix.jaeyoungjung.com"
 }
